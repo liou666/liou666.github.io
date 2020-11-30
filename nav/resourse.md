@@ -1,3 +1,11 @@
-## layout: page title: resource permalink: /resource/ header-img: "img/home.jpg"
+﻿---
+layout: page
+title: resource
+permalink: /resource/
+header-img: "img/home.jpg"
+---
 
-# 我的 Bilibli 主页：
+
+
+
+- **我的Bilibli主页：[CodingWithAlice](<https://space.bilibili.com/14608003>)**
