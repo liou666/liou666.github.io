@@ -1,6 +1,6 @@
 
 # Created by https://www.gitignore.io/api/macos
-
+/node_modules/
 ### macOS ###
 *.DS_Store
 .AppleDouble
